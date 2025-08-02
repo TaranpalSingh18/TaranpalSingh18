@@ -43,10 +43,6 @@ I'm a **Computer Science Undergraduate** at **IIIT Naya Raipur** with a passion 
   <img src="https://github-readme-stats.vercel.app/api?username=TaranpalSingh18&show_icons=true&theme=radical" alt="GitHub Stats" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=TaranpalSingh18&theme=radical" alt="GitHub Streak" />
 </div>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TaranpalSingh18&layout=compact&theme=radical" alt="Top Languages" />
-</div>
 ---
 
 <div align="center">
