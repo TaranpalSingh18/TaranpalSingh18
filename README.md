@@ -2,7 +2,6 @@
   <img src="https://komarev.com/ghpvc/?username=TaranpalSingh18&style=flat-square&color=blue" alt="Profile Views" />
 </div>
 
-## 🎓 About Me
 I'm a **Computer Science Undergraduate** at **IIIT Naya Raipur** with a passion for **Python development**, **backend engineering**, and **Generative AI**. I specialize in building intelligent systems and scalable backend solutions.
 
 ### 🚀 My Interests
@@ -41,8 +40,8 @@ I'm a **Computer Science Undergraduate** at **IIIT Naya Raipur** with a passion 
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=radical" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=TaranpalSingh18&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=TaranpalSingh18&theme=radical" alt="GitHub Streak" />
 </div>
 
 <div align="center">
