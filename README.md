@@ -63,19 +63,8 @@ I'm a **Computer Science Undergraduate** at **IIIT Naya Raipur** with a passion 
 
 ---
 
-## 🎓 Education
-- **Bachelor of Technology in Computer Science**
-- **Indian Institute of Information Technology, Naya Raipur**
-- **Expected Graduation**: 2027
-
----
-
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=TaranpalSingh18&theme=react-dark" alt="GitHub Activity Graph" />
 </div>
----
 
-<div align="center">
-  <img src="https://github-contribution-stats.vercel.app/api/?username=TaranpalSingh18" alt="GitHub Contribution Stats" />
-</div>
 ---
