@@ -2,7 +2,7 @@
   <img src="https://komarev.com/ghpvc/?username=TaranpalSingh18&style=flat-square&color=blue" alt="Profile Views" />
 </div>
 
-I'm a **Computer Science Undergraduate** at **IIIT Naya Raipur** with a passion for **Python development**, **backend engineering**, and **Generative AI**. I specialize in building intelligent systems and scalable backend solutions.
+I'm a **Computer Science Undergraduate** at **IIIT Naya Raipur** with a passion for **Python backend development**, **Generative AI** and **Agentic AI**. I specialize in building intelligent systems and scalable backend solutions.
 
 ### 🚀 My Interests
 - **🐍 Python Development** - Backend APIs, Data Processing, Automation
