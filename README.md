@@ -14,57 +14,27 @@ I'm a **Computer Science Undergraduate** at **IIIT Naya Raipur** with a passion 
 ---
 
 ## 🛠️ Tech Stack
-
-### Programming Languages
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-
-### Backend & APIs
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white)
-
-### Frontend & UI
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)
-
-### Databases & Storage
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![AstraDB](https://img.shields.io/badge/AstraDB-000000?style=for-the-badge&logo=datastax&logoColor=white)
-
-### AI & Machine Learning
 ![LangChain](https://img.shields.io/badge/LangChain-00FF00?style=for-the-badge&logo=langchain&logoColor=black)
 ![LangGraph](https://img.shields.io/badge/LangGraph-FF6B6B?style=for-the-badge&logo=langgraph&logoColor=white)
 ![FAISS](https://img.shields.io/badge/FAISS-FFD700?style=for-the-badge&logo=faiss&logoColor=black)
-
-### Development Tools
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
----
-
-## 🎯 Current Focus
-
-### 🤖 **Generative AI & Agent AI**
-- Building intelligent agents using **LangChain** and **LangGraph**
-- Implementing vector search with **FAISS** for semantic retrieval
-- Developing conversational AI systems and automation workflows
-
-### 🐍 **Python Backend Development**
-- Creating high-performance APIs with **FastAPI**
-- Building scalable microservices and RESTful APIs
-- Database design and optimization with **MongoDB** and **AstraDB**
-
-### 🌐 **Full-Stack Applications**
-- Modern web applications with **React.js** and **Node.js**
-- Responsive UI design with **Bootstrap** and **CSS3**
-- Interactive frontend development with **jQuery**
 
 ---
 
