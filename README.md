@@ -47,20 +47,6 @@ I'm a **Computer Science Undergraduate** at **IIIT Naya Raipur** with a passion 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TaranpalSingh18&layout=compact&theme=radical" alt="Top Languages" />
 </div>
-
----
-
-## 📫 Connect With Me
-
-<div align="center">
-  <a href="mailto:taranarora1470@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-  <a href="https://www.linkedin.com/in/taran-pal-singh-75b58927a/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-</div>
-
 ---
 
 <div align="center">
