@@ -37,7 +37,7 @@ I'm a **Computer Science Undergraduate** at **IIIT Naya Raipur** with a passion 
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Statistics
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=TaranpalSingh18&show_icons=true&theme=radical" alt="GitHub Stats" />
