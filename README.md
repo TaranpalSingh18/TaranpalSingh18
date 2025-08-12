@@ -5,7 +5,7 @@
 I'm a **Computer Science Undergraduate** at **IIIT Naya Raipur** with a passion for **Python backend development**, **Generative AI** and **Agentic AI**. I specialize in building intelligent systems and scalable backend solutions.
 
 ### 🚀 My Interests
-- **🐍 Python Development** - Backend APIs, Data Processing, Automation
+- **🐍 Python Development** - Backend APIs,Automation
 - **🤖 Generative AI** - Large Language Models, AI Agents, LangChain
 - **🔧 Backend Engineering** - Microservices, Database Design, API Development
 - **🌐 Full-Stack Development** - Modern Web Applications
