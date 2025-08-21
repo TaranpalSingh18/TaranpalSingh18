@@ -45,8 +45,4 @@ I'm a **Computer Science Undergraduate** at **IIIT Naya Raipur** with a passion 
 </div>
 ---
 
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=TaranpalSingh18&theme=react-dark" alt="GitHub Activity Graph" />
-</div>
-
 ---
