@@ -21,7 +21,16 @@ I build **AI-first applications** where intelligent models, agents, and reasonin
 ![LangChain](https://img.shields.io/badge/LangChain-00FF00?style=for-the-badge&logo=langchain&logoColor=black)
 ![LangGraph](https://img.shields.io/badge/LangGraph-FF6B6B?style=for-the-badge&logo=langgraph&logoColor=white)
 ![FAISS](https://img.shields.io/badge/FAISS-FFD700?style=for-the-badge&logo=faiss&logoColor=black)
+![ChromaDB](https://img.shields.io/badge/ChromaDB-FF6F00?style=for-the-badge&logo=databricks&logoColor=white)
 ![AstraDB](https://img.shields.io/badge/AstraDB-000000?style=for-the-badge&logo=datastax&logoColor=white)
+
+![GraphDB](https://img.shields.io/badge/GraphDB-4B0082?style=for-the-badge)
+![MCP](https://img.shields.io/badge/MCP-0A0A0A?style=for-the-badge)
+![ReACT](https://img.shields.io/badge/ReACT-FF1493?style=for-the-badge)
+![Agent_Orchestration](https://img.shields.io/badge/Agent_Orchestration-1E90FF?style=for-the-badge)
+![Prompt_Engineering](https://img.shields.io/badge/Prompt_Engineering-8A2BE2?style=for-the-badge)
+![Chain_of_Thought](https://img.shields.io/badge/Chain_of_Thought-228B22?style=for-the-badge)
+
 
 ### 🤖 AI System Infrastructure
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
