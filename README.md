@@ -10,7 +10,7 @@ I build **AI-first applications** where intelligent models, agents, and reasonin
 - **🧠 Agentic AI Systems** – Autonomous agents, tool calling, multi-agent orchestration
 - **📚 Applied ML & AI Systems** – Embeddings, semantic search, vector similarity
 - **🐍 Python for AI Systems** – Model integration, AI APIs, async inference pipelines
-- **🔧 Backend (Supporting Role)** – APIs, microservices, databases for AI workloads
+- **🔧 Backend (Supporting Role)** – APIs, microservices, databases for AI workflows
 
 ---
 
