@@ -3,7 +3,7 @@
 </div>
 
 I'm a **Computer Science Undergraduate** at **IIIT Naya Raipur** with a strong focus on **Artificial Intelligence Engineering**, particularly **Generative AI**, **Agentic AI**, and **LLM-powered systems**.  
-I build **AI-first applications** where intelligent models, agents, and reasoning systems sit at the core, supported by scalable backend infrastructure.
+I build **AI-first applications** where intelligent models, agents, and reasoning systems sit at the core, supported by scalable backend infrastructure..
 
 ### 🚀 My Interests:
 - **🤖 Generative AI (Primary Focus)** – LLMs, RAG pipelines, prompt engineering, evaluation
