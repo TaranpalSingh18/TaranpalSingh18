@@ -1,70 +1,67 @@
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=TaranpalSingh18&style=flat-square&color=blue" alt="Profile Views" />
-</div>
+<h1 align="center">Taran Pal Singh</h1>
 
-<div align="center">
-
-# Taran Pal Singh
-</div>
-
-I'm a **Computer Science Undergraduate** at **IIIT Naya Raipur** with a strong focus on **Artificial Intelligence Engineering**, particularly **Generative AI**, **Agentic AI**, and **LLM-powered systems**.  
-I build **AI-first applications** where intelligent models, agents, and reasoning systems sit at the core, supported by scalable backend infrastructure..
-
-### 🚀 My Interests:
-- **🤖 Generative AI (Primary Focus)** – LLMs, RAG pipelines, prompt engineering, evaluation
-- **🧠 Agentic AI Systems** – Autonomous agents, tool calling, multi-agent orchestration
-- **📚 Applied ML & AI Systems** – Embeddings, semantic search, vector similarity
-- **🐍 Python for AI Systems** – Model integration, AI APIs, async inference pipelines
-- **🔧 Backend (Supporting Role)** – APIs, microservices, databases for AI workflows
+<p align="center">
+  <a href="mailto:taranarora1470@gmail.com"><img src="https://img.shields.io/badge/-taranarora1470@gmail.com-EA4335?style=flat&logo=gmail&logoColor=white" /></a>
+  &nbsp;
+  <a href="https://linkedin.com/in/taranpalsingh18"><img src="https://img.shields.io/badge/-taranpalsingh18-0A66C2?style=flat&logo=linkedin&logoColor=white" /></a>
+  &nbsp;
+  <img src="https://komarev.com/ghpvc/?username=TaranpalSingh18&style=flat&color=6d28d9&label=visitors" />
+</p>
 
 ---
 
-## 🛠️ Tech Stack
+I started with C++, competitive programming, and the usual CS fundamentals — then somewhere along the way, I got pulled into the world of language models and never really looked back.
 
-### 🧠 AI / GenAI (Core)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![LangChain](https://img.shields.io/badge/LangChain-00FF00?style=for-the-badge&logo=langchain&logoColor=black)
-![LangGraph](https://img.shields.io/badge/LangGraph-FF6B6B?style=for-the-badge&logo=langgraph&logoColor=white)
-![FAISS](https://img.shields.io/badge/FAISS-FFD700?style=for-the-badge&logo=faiss&logoColor=black)
-![ChromaDB](https://img.shields.io/badge/ChromaDB-FF6F00?style=for-the-badge&logo=databricks&logoColor=white)
-![AstraDB](https://img.shields.io/badge/AstraDB-000000?style=for-the-badge&logo=datastax&logoColor=white)
+My real shift happened during a research internship at **IIT Roorkee**, where I worked on low-resource NLP for Punjabi — benchmarking frontier models, building data pipelines, and realising how much of AI engineering is actually about the plumbing, not just the models. That experience pushed me deeper into applied AI.
 
-![GraphDB](https://img.shields.io/badge/GraphDB-4B0082?style=for-the-badge)
-![MCP](https://img.shields.io/badge/MCP-0A0A0A?style=for-the-badge)
-![ReACT](https://img.shields.io/badge/ReACT-FF1493?style=for-the-badge)
-![Agent_Orchestration](https://img.shields.io/badge/Agent_Orchestration-1E90FF?style=for-the-badge)
-![Prompt_Engineering](https://img.shields.io/badge/Prompt_Engineering-8A2BE2?style=for-the-badge)
-![Chain_of_Thought](https://img.shields.io/badge/Chain_of_Thought-228B22?style=for-the-badge)
+From there I joined **Avkalan Labs** as an AI engineering intern, building a multimodal agentic chatbot — my first real taste of orchestrating agents, routing across knowledge retrieval and simulation execution, and making systems that actually hold up under real user load.
 
+Most recently at **Mobineers**, I moved into the safety side of LLM systems — building production guardrails, working with vLLM for inference optimisation, and shipping a hybrid OCR + LLM pipeline for enterprise document processing. That's where I went from *using* AI to genuinely *engineering* it.
 
-### 🤖 AI System Infrastructure
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-
-### ⚙️ Programming & Supporting Stack
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white)
-
-### 🌐 Frontend (For AI Products)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
-![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)
-
-### 🧰 Tools
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+Right now I'm a CS undergrad at **IIIT Naya Raipur** (2023–2027), obsessed with agentic systems, RAG, and making LLMs actually reliable in production.
 
 ---
 
-## 📊 GitHub Statistics
+## Stack
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TaranpalSingh18&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=TaranpalSingh18&theme=radical" alt="GitHub Streak" />
-</div>
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" />
+  <img src="https://img.shields.io/badge/LangGraph-FF6B6B?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/LlamaIndex-FF6F00?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/CrewAI-1A1A2E?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Pydantic_AI-E92063?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
+  <img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" />
+  <img src="https://img.shields.io/badge/vLLM-FF6B35?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/LoRA-00CED1?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/QLoRA-4682B4?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/VLMs-9B59B6?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/MCP-0A0A0A?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/NeMo_Guardrails-76B900?style=for-the-badge&logo=nvidia&logoColor=white" />
+  <img src="https://img.shields.io/badge/Guardrails_AI-FF4444?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Presidio-0078D4?style=for-the-badge&logo=microsoft&logoColor=white" />
+  <img src="https://img.shields.io/badge/Red_Teaming-8B0000?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Colang-6A0DAD?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/ChromaDB-FF6F00?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/FAISS-FFD700?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Weaviate-00C853?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/AstraDB-000000?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/GraphDB-4B0082?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" />
+  <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+</p>
+
+---
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=TaranpalSingh18&show_icons=true&theme=tokyonight&hide_border=true&hide=stars&rank_icon=github&hide_title=true" height="150" />
+  &nbsp;
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TaranpalSingh18&layout=compact&theme=tokyonight&hide_border=true&langs_count=6&hide_title=true" height="150" />
+</p>
