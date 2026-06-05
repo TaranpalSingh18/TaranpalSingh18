@@ -2,7 +2,7 @@
   <img src="https://komarev.com/ghpvc/?username=TaranpalSingh18&style=flat-square&color=blue" alt="Profile Views" />
 </div>
 
-**Taran Pal Singh**
+### **Taran Pal Singh**
 
 I'm a **Computer Science Undergraduate** at **IIIT Naya Raipur** with a strong focus on **Artificial Intelligence Engineering**, particularly **Generative AI**, **Agentic AI**, and **LLM-powered systems**.  
 I build **AI-first applications** where intelligent models, agents, and reasoning systems sit at the core, supported by scalable backend infrastructure..
