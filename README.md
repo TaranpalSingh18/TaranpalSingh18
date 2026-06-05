@@ -1,11 +1,21 @@
-<h1 align="center">Taran Pal Singh</h1>
+<!-- <div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=120&section=header" />
+</div> -->
 
 <p align="center">
-  <a href="mailto:taranarora1470@gmail.com"><img src="https://img.shields.io/badge/-taranarora1470@gmail.com-EA4335?style=flat&logo=gmail&logoColor=white" /></a>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=46&pause=99999&color=FFFFFF&center=true&vCenter=true&repeat=false&width=600&height=70&lines=Taran+Pal+Singh" alt="Name" />
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=17&pause=1000&color=A78BFA&center=true&vCenter=true&width=500&lines=AI+Engineer+%7C+IIIT+Naya+Raipur;Building+Agentic+%26+Generative+AI+Systems;LLMs+%7C+RAG+%7C+AI+Safety+%7C+Inference" alt="Subtitle" />
+</p>
+
+<p align="center">
+  <a href="mailto:taranarora1470@gmail.com"><img src="https://img.shields.io/badge/-taranarora1470@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white" /></a>
   &nbsp;
-  <a href="https://linkedin.com/in/taranpalsingh18"><img src="https://img.shields.io/badge/-taranpalsingh18-0A66C2?style=flat&logo=linkedin&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/taran-pal-singh-75b58927a/"><img src="https://img.shields.io/badge/-taranpalsingh18-0A66C2?style=flat-square&logo=linkedin&logoColor=white" /></a>
   &nbsp;
-  <img src="https://komarev.com/ghpvc/?username=TaranpalSingh18&style=flat&color=6d28d9&label=visitors" />
+  <img src="https://komarev.com/ghpvc/?username=TaranpalSingh18&style=flat-square&color=6d28d9&label=visitors" />
 </p>
 
 ---
